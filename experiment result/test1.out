@@ -1,0 +1,35 @@
+k=1 
+Gop8_10 
+Random Result:70.123611% (50489.00 of 72000 nodes)
+Sequ Result  :85.070855% (61251.02 of 72000 nodes)
+Gop32_3 
+Random Result:39.809799% (34395.67 of 86400 nodes)
+Sequ Result  :81.686762% (70577.36 of 86400 nodes)
+k=2 
+Gop8_10 
+Random Result:70.408333% (50694.00 of 72000 nodes)
+Sequ Result  :80.974978% (58301.98 of 72000 nodes)
+Gop32_3 
+Random Result:40.282793% (34804.33 of 86400 nodes)
+Sequ Result  :80.868360% (69870.26 of 86400 nodes)
+k=3 
+Gop8_10 
+Random Result:70.065741% (50447.33 of 72000 nodes)
+Sequ Result  :81.276277% (58518.92 of 72000 nodes)
+Gop32_3 
+Random Result:40.060571% (34612.33 of 86400 nodes)
+Sequ Result  :77.378303% (66854.85 of 86400 nodes)
+k=4 
+Gop8_10 
+Random Result:70.019444% (50414.00 of 72000 nodes)
+Sequ Result  :79.967842% (57576.85 of 72000 nodes)
+Gop32_3 
+Random Result:39.975309% (34538.67 of 86400 nodes)
+Sequ Result  :77.375096% (66852.08 of 86400 nodes)
+k=5 
+Gop8_10 
+Random Result:69.933333% (50352.00 of 72000 nodes)
+Sequ Result  :79.982668% (57587.52 of 72000 nodes)
+Gop32_3 
+Random Result:39.832176% (34415.00 of 86400 nodes)
+Sequ Result  :77.705370% (67137.44 of 86400 nodes)

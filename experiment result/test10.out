@@ -1,0 +1,18 @@
+Gop8_10 
+Random Result:71.618519% (51565.33 of 72000 nodes)
+Result on 0.1:86.62%
+Result on 0.2:71.18%
+Result on 0.3:57.06%
+Sequ Result  :83.088893% (59824.00 of 72000 nodes)
+Result on 0.1:92.64%
+Result on 0.2:81.05%
+Result on 0.3:75.57%
+Gop32_3 
+Random Result:41.277006% (35663.33 of 86400 nodes)
+Result on 0.1:54.52%
+Result on 0.2:39.26%
+Result on 0.3:30.06%
+Sequ Result  :82.788158% (71528.97 of 86400 nodes)
+Result on 0.1:89.06%
+Result on 0.2:80.50%
+Result on 0.3:78.80%
