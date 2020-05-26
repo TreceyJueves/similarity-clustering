@@ -5,6 +5,10 @@
 
 Checker.cpp为助教提供的评测平台
 
+mychecker.cpp是我们为了使checker的输出结果更方便调试和比较模型，而修改出的功能类似的代码
+
+test.bat脚本可以在windows下测试各模型，并输出到对应的.out文件
+
 countBlocks.cpp用来计算连通块
 
 DataAnalysis（new）.cpp用来分析数据
